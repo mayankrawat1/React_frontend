@@ -21,6 +21,7 @@ function About() {
         <p className="about_right_desc">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Est corporis quam facere sapiente sequi, iure repellat dolorem blanditiis, delectus, iste dicta laboriosam explicabo nesciunt nostrum! Quos, ratione blanditiis. Quo, quos. Omnis reiciendis voluptas modi provident optio tempore tempora sunt vitae harum maiores dolor impedit, dolorum aliquid aliquam laborum odio recusandae reprehenderit ipsa at incidunt culpa. Fugit quam ipsam delectus quisquam.
         </p>
+        <button>Contact Me</button>
       </div>
     </div>
   );
